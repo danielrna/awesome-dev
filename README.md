@@ -1,5 +1,8 @@
 # awesome-dev
 My favorite tools for development. Feel free to send PR for updates. 
 
-Tool for CRON translation :
+CRON translation :
 https://crontab.guru/
+
+JSON formatting :
+https://jsonformatter.curiousconcept.com/
