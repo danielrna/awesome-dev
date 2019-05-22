@@ -9,3 +9,6 @@ https://jsonformatter.curiousconcept.com/
 
 Timestamp conversion : 
 http://www.timestamp.fr/
+
+JWT Token parser : 
+https://jwt.io/
