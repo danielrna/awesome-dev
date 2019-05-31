@@ -12,3 +12,6 @@ http://www.timestamp.fr/
 
 JWT Token parser : 
 https://jwt.io/
+
+
+Why there is no ternary operator in Kotlin : https://discuss.kotlinlang.org/t/ternary-operator/2116/13
