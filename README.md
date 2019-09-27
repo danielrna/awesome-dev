@@ -1,5 +1,5 @@
 # awesome-dev
-My favorite tools for development. Feel free to send PR for updates. 
+My favorite tools and commands for development. Feel free to send PR for updates. 
 
 CRON translation :
 https://crontab.guru/
