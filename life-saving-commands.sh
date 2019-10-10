@@ -14,3 +14,5 @@ docker-machine ssh vm2 "docker swarm join --token SWMTKN-1-2bpjph5gzp45q92rf61m0
 mongodump --host <IP FROM> --port <PORT FROM> --db <DB FROM> --archive | mongorestore --host <IP TO> --port <PORT TO> --archive
 
 
+# tunnel
+ssh -L <local port to forward to>:<address to reach, from the remote machine>:<targeted port> droina@<ip of remote machine>
