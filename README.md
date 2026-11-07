@@ -6,6 +6,7 @@ https://crontab.guru/
 
 JSON formatting :
 https://jsonformatter.curiousconcept.com/
+https://bestjson.com/ - Browser-based JSON formatting that preserves original numeric tokens; no signup required.
 
 Timestamp conversion : 
 http://www.timestamp.fr/
